@@ -1,0 +1,35 @@
+//
+//  JMDwornik.h
+//  JMDwornik
+//
+//  Created by FBI on 16/3/28.
+//  Copyright © 2016年 君陌. All rights reserved.
+//
+
+#ifndef JMDwornik_h
+#define JMDwornik_h
+
+#define RGBColor(r, g, b) [UIColor colorWithRed:(r) / 255.0 green:(g) / 255.0 blue:(b) / 255.0 alpha:1]
+
+#define RGBAColor(r, g, b, a) [UIColor colorWithRed:(r) / 255.0 green:(g) / 255.0 blue:(b) / 255.0 alpha:((a) ? (a) : 1)]
+
+#define UserDefault     [NSUserDefaults standardUserDefaults]
+
+#define JMKeyWindow     [UIApplication sharedApplication].keyWindow
+
+/**
+ *  现在的分数
+ */
+#define CurrentScore    @"CurrentScore"
+/**
+ *  最高分
+ */
+#define TopScore        @"TopScore"
+/**
+ *  已经存在的数字盘的布局
+ */
+#define ExistNumBoard   @"ExistNumBoard"
+
+#import <AVFoundation/AVFoundation.h>
+
+#endif /* JMDwornik_h */

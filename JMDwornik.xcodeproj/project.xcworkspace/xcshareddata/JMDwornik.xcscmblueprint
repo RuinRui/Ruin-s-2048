@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "df9a04cd-183e-47ff-baed-20109dbd4f23++5271",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "df9a04cd-183e-47ff-baed-20109dbd4f23++5271" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "df9a04cd-183e-47ff-baed-20109dbd4f23++5271" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4157D3A1-B324-4173-87C2-A14CC9F01D34",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "df9a04cd-183e-47ff-baed-20109dbd4f23++5271" : "Ruin's%202048\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JMDwornik",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JMDwornik.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/Ruins_Project",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "df9a04cd-183e-47ff-baed-20109dbd4f23++5271"
+    }
+  ]
+}
